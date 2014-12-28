@@ -1,0 +1,13 @@
+
+.bob.ng-pristine {
+  background-color: yellow;
+  }
+.bob.ng-dirty {
+  background-color: lightblue;
+  }
+.bob.ng-invalid {
+  border: 5px solid red;
+  }
+.bob.ng-valid {
+  border: 5px solid green;
+  }
